@@ -15,7 +15,7 @@ Focused on architecture, performance, and long-term maintainability.
 
 ## 🚀 Current Focus
 
-- 🧾 Building <strong>EZinvoices</strong> — subscription invoicing SaaS
+- 🧾 Building <strong>EZinvoices</strong> - subscription invoicing SaaS
 - 🔁 Rebuilding projects with stronger TypeScript architecture
 - 🏗 Designing scalable UI systems & billing flows
 - 📦 Shipping production-ready client systems
@@ -25,30 +25,33 @@ Focused on architecture, performance, and long-term maintainability.
 ## 🧾 Selected Projects
 
 ### EZinvoices  
-Subscription-based invoicing SaaS with onboarding, subscription logic and production billing.
+Subscription-based invoicing SaaS with onboarding, authentication, subscription logic, production billing, and content-driven growth.
 
-<strong>Stack:</strong> Next.js · Supabase · Stripe
+Stack: Next.js · Supabase · Stripe · Resend · MDX · Authentication
+
 
 ---
 
 ### Mara River Capital  
-Full rebuild from desktop-only prototype to responsive, typed architecture.  
-Focused on layout systems and maintainable UI structure.
+Full rebuild from desktop-only prototype to responsive, typed architecture. Focused on layout systems, maintainable UI structure, and interactive 3D scene integration.
 
-<strong>Stack:</strong> Next.js · TypeScript · SCSS
+Stack: Next.js · TypeScript · SCSS · Three.js · React Three Fiber · Drei · GLSL
+
 
 ---
 
 ### Tsunami & Yama Momo  
-Live restaurant systems maintained for 3+ years.  
-Responsible for hosting, deployments and long-term performance.
+Live restaurant systems maintained for 3+ years. Responsible for hosting, deployments, backend integrations, and long-term performance stability.
 
-<strong>Stack:</strong> Next.js · Supabase · Resend · Vercel
+Stack: Next.js · Supabase · Resend · Vercel
+
 
 ---
 
 ### Bespoke CRM  
-Internal outreach & pipeline management system supporting real business operations.
+Internal outreach and pipeline management system supporting real business operations, follow-ups, and MRR tracking.
+
+Stack: Next.js · Supabase · Authentication
 
 ---
 
@@ -59,13 +62,20 @@ Internal outreach & pipeline management system supporting real business operatio
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-0A0F1C?style=for-the-badge&logo=node.js&logoColor=339933"/>
 <img src="https://img.shields.io/badge/TailwindCSS-0F172A?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8"/>
 <img src="https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
 <img src="https://img.shields.io/badge/Framer_Motion-000000?style=for-the-badge&logo=framer&logoColor=white"/>
+<img src="https://img.shields.io/badge/Three.js-0A0F1C?style=for-the-badge&logo=three.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/React_Three_Fiber-111111?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/GLSL-1A1A1A?style=for-the-badge&logo=webgl&logoColor=white"/>
 <img src="https://img.shields.io/badge/Supabase-1E1E1E?style=for-the-badge&logo=supabase&logoColor=3ECF8E"/>
 <img src="https://img.shields.io/badge/PostgreSQL-0A0F1C?style=for-the-badge&logo=postgresql&logoColor=336791"/>
 <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white"/>
+<img src="https://img.shields.io/badge/Resend-111111?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/MDX-1A1A1A?style=for-the-badge&logo=markdown&logoColor=white"/>
 <img src="https://img.shields.io/badge/Vercel-0F172A?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hostinger-673DE6?style=for-the-badge&logo=hostinger&logoColor=white"/>
 </p>
 
 ---
