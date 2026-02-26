@@ -72,7 +72,7 @@ Stack: Next.js · Supabase · Authentication
 <img src="https://img.shields.io/badge/Supabase-1E1E1E?style=for-the-badge&logo=supabase&logoColor=3ECF8E"/>
 <img src="https://img.shields.io/badge/PostgreSQL-0A0F1C?style=for-the-badge&logo=postgresql&logoColor=336791"/>
 <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white"/>
-<img src="https://img.shields.io/badge/Resend-111111?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Resend-000000?style=for-the-badge&logoColor=white"/>
 <img src="https://img.shields.io/badge/MDX-1A1A1A?style=for-the-badge&logo=markdown&logoColor=white"/>
 <img src="https://img.shields.io/badge/Vercel-0F172A?style=for-the-badge&logo=vercel&logoColor=white"/>
 <img src="https://img.shields.io/badge/Hostinger-673DE6?style=for-the-badge&logo=hostinger&logoColor=white"/>
